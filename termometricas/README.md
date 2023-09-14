@@ -42,6 +42,6 @@ O código começa por definir o ponto de ebulição da água em Kelvin (`373.15`
 2. Clone este repositório ou copie o código acima para um arquivo `.go`.
 3. Abra um terminal e navegue até o diretório onde o arquivo `.go` está localizado.
 4. Execute `go run <nome-do-arquivo>.go`.
-5. O resultado da conversão será impresso no console.
+5. O resultado será impresso no console.
 
 
