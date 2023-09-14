@@ -1,6 +1,6 @@
 # Conversão de Escalas Termométricas
 
-## Desafio da Escola DIO Tech Education
+## Desafio da Escola DIO 
 
 Este projeto é um resultado de um desafio proposto por um professor de ensino médio que quis incentivar seus alunos a desenvolverem habilidades em programação. O objetivo geral é criar um programa em Go que converta o ponto de ebulição da água de Kelvin para Celsius.
 
@@ -11,6 +11,10 @@ Um professor de ensino médio solicitou aos seus alunos que desenvolvessem um pr
 \[
 C = K - 273.15
 \]
+
+### Desenvolvido por
+
+Este projeto foi desenvolvido por ***Rodrigo Rangel***.
 
 ### Resolução
 
@@ -40,10 +44,4 @@ O código começa por definir o ponto de ebulição da água em Kelvin (`373.15`
 4. Execute `go run <nome-do-arquivo>.go`.
 5. O resultado da conversão será impresso no console.
 
-### Contribuições
 
-Este é um projeto educacional e todas as contribuições são bem-vindas. Sinta-se à vontade para abrir um issue ou criar um pull request.
-
----
-
-Desenvolvido por Rodrigo Rangel.

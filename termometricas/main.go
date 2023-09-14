@@ -9,7 +9,7 @@ func main() {
 
 	fmt.Printf("A temperatura de ebulição da água em Kelvin é %g K, temperatura de ebulição em Celsius é %g ºC\n", pontoDeEbulicaoDaAguaEmKelvin, pontoDeEbulicaoDaAguaEmCelsius)
 
-	// Pausa a execução até que o usuário pressione Enter
+	// Pausa a execução até que o usuário pressione Enter caso seja executado
 	fmt.Println("Pressione ENTER para sair...")
 	fmt.Scanln()
 }
